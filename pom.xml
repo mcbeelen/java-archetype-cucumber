@@ -30,5 +30,4 @@
     </pluginManagement>
   </build>
 
-  <description>Quango project for combining cucumber, maven and git flow</description>
 </project>
